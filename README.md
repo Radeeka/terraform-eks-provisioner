@@ -41,12 +41,12 @@ To deploy your EKS cluster, follow these steps:
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/your-eks-cluster.git
+   git clone  https://github.com/Radeeka/terraform_eks_cluster.git
    ```
 
 2. Change into the cloned directory.
    ```
-   cd your-eks-cluster
+   cd terraform_eks_cluster
    ```
 
 3. Initialize the Terraform workspace.

@@ -1,2 +1,2 @@
-# terraform_aks_cluster
+# terraform_eks_cluster
 Terraform implementation of a fully featured AKS cluster (with self managed nodes 
